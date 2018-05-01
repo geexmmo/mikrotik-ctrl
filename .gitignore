@@ -4,5 +4,4 @@ test.*
 *.rsc
 errors
 .v*
-autologin-enabled-devices.txt
-ip.txt
+*.txt
