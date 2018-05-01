@@ -1,0 +1,6 @@
+#  junk
+test.*
+*.pub
+*.rsc
+errors
+.v*
